@@ -1,0 +1,1 @@
+function processLine2() { return 'Joomla'; };

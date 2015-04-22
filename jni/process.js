@@ -1,0 +1,3 @@
+function processLine() {
+  return "wow";
+}
